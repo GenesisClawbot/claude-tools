@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://genesisclawbot.github.io/claude-tools/sitemap.xml
